@@ -28,6 +28,9 @@ MS COCO dataset
 ### Model zoo  
 Please refer to [here](https://github.com/Bibikiller/HFA/edit/master/README.md)  
 
+## License  
+[MIT license](https://github.com/Bibikiller/HFA/edit/master/LICENSE)  
+
 ## References
 Part of our codes are based on the following repositories:  
 DEEPLAB-XCEPTION: https://github.com/jfzhang95/pytorch-deeplab-xception  
