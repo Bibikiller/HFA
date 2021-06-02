@@ -2,6 +2,9 @@ HFA: Harmonic Feature Activation for few-shot semantic segmentation
 
 Core Modules of HFA
 
+## Introduction  
+Few-shot semantic segmentation aims at training a model which segments the novel class with few training data. We propose harmonic feature activation to effectively activate the target category in query image.
+
 ## Requirements  
 pytorch>=1.0  
 python>=3.6  
