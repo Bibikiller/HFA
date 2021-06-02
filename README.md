@@ -19,11 +19,12 @@ numpy
 pillow  
 opencv  
 
-## Data preparation  
+### Data preparation  
 PASCAL VOC dataset  
 MS COCO dataset
 
-### Test  
+### Train & Test  
+run main.ipynb  
 
 ### Model zoo  
 Please refer to [here](https://github.com/Bibikiller/HFA/edit/master/README.md)  
