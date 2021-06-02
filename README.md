@@ -27,7 +27,7 @@ MS COCO dataset
 run main.ipynb  
 
 ### Model zoo  
-Please refer to [here](https://github.com/Bibikiller/HFA/edit/master/README.md)  
+Please kindly refer to [here](https://github.com/Bibikiller/HFA/edit/master/README.md)  
 
 ## License  
 [MIT license](https://github.com/Bibikiller/HFA/edit/master/LICENSE)  
