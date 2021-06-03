@@ -26,7 +26,7 @@ MS COCO dataset
 ### Train & Test  
 run main.ipynb  
 
-### Model zoo & Results
+### Model zoo & results
 Please kindly refer to [here](https://github.com/Bibikiller/HFA/edit/master/README.md)  
 
 ## License  
